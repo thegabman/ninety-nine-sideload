@@ -5,6 +5,15 @@
       "versions": [
         {
           "version": "0.1",
+          "buildVersion": "202611112207",
+          "date": "2026-11-11T22:08:34Z",
+          "localizedDescription": "Eigene Warenkörbe als .ninetynine-Datei teilen",
+          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611112207/NinetyNine.ipa",
+          "size": 3567533,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "0.1",
           "buildVersion": "202611112150",
           "date": "2026-11-11T21:51:05Z",
           "localizedDescription": "Moxfield-Sync, Wunschliste, eigene Warenkörbe und Tausch",
@@ -36,10 +45,10 @@
         }
       },
       "version": "0.1",
-      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611112150/NinetyNine.ipa",
-      "size": 3550495,
-      "versionDate": "2026-11-11T21:51:05Z",
-      "versionDescription": "Moxfield-Sync, Wunschliste, eigene Warenkörbe und Tausch"
+      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611112207/NinetyNine.ipa",
+      "size": 3567533,
+      "versionDate": "2026-11-11T22:08:34Z",
+      "versionDescription": "Eigene Warenkörbe als .ninetynine-Datei teilen"
     }
   ],
   "news": [],
