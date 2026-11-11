@@ -1,0 +1,44 @@
+{
+  "apps": [
+    {
+      "bundleIdentifier": "de.gabrielschmitz.ninety-nine",
+      "versions": [
+        {
+          "version": "0.1",
+          "buildVersion": "202611111851",
+          "date": "2026-11-11T18:52:15Z",
+          "localizedDescription": "Erste Version für Freunde",
+          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611111851/NinetyNine.ipa",
+          "size": 3127924,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "name": "Ninety-Nine",
+      "developerName": "Gabriel Schmitz",
+      "subtitle": "Commander deck builder",
+      "localizedDescription": "EDH/Commander deck builder: Scryfall search, swipe mode, tags, stats, legality and bracket checks.",
+      "iconURL": "https://raw.githubusercontent.com/thegabman/ninety-nine-sideload/main/icon.png",
+      "tintColor": "#C8A24A",
+      "category": "utilities",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSFaceIDUsageDescription": "Face ID unlocks your saved Cardmarket login before the app signs you in."
+        }
+      },
+      "version": "0.1",
+      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611111851/NinetyNine.ipa",
+      "size": 3127924,
+      "versionDate": "2026-11-11T18:52:15Z",
+      "versionDescription": "Erste Version für Freunde"
+    }
+  ],
+  "news": [],
+  "name": "Ninety-Nine",
+  "subtitle": "Private builds for friends",
+  "identifier": "de.gabrielschmitz.ninety-nine.source",
+  "sourceURL": "https://raw.githubusercontent.com/thegabman/ninety-nine-sideload/main/apps.json",
+  "iconURL": "https://raw.githubusercontent.com/thegabman/ninety-nine-sideload/main/icon.png",
+  "tintColor": "#C8A24A",
+  "nsfw": false
+}
