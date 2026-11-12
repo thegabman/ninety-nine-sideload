@@ -5,6 +5,15 @@
       "versions": [
         {
           "version": "0.1",
+          "buildVersion": "202611120903",
+          "date": "2026-11-12T09:04:19Z",
+          "localizedDescription": "Tags pro Deck, Neuer-Tag-Chip und Haupt-Tag per langem Drücken",
+          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120903/NinetyNine.ipa",
+          "size": 3643520,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "0.1",
           "buildVersion": "202611120825",
           "date": "2026-11-12T08:26:32Z",
           "localizedDescription": "Cut-Modus: Schnell-Tags, Anzahl-Badges und Kopien-Stepper",
@@ -38,15 +47,6 @@
           "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611112150/NinetyNine.ipa",
           "size": 3550495,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "0.1",
-          "buildVersion": "202611111851",
-          "date": "2026-11-11T18:52:15Z",
-          "localizedDescription": "Erste Version für Freunde",
-          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611111851/NinetyNine.ipa",
-          "size": 3127924,
-          "minOSVersion": "26.0"
         }
       ],
       "name": "Ninety-Nine",
@@ -63,10 +63,10 @@
         }
       },
       "version": "0.1",
-      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120825/NinetyNine.ipa",
-      "size": 3617552,
-      "versionDate": "2026-11-12T08:26:32Z",
-      "versionDescription": "Cut-Modus: Schnell-Tags, Anzahl-Badges und Kopien-Stepper"
+      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120903/NinetyNine.ipa",
+      "size": 3643520,
+      "versionDate": "2026-11-12T09:04:19Z",
+      "versionDescription": "Tags pro Deck, Neuer-Tag-Chip und Haupt-Tag per langem Drücken"
     }
   ],
   "news": [],
