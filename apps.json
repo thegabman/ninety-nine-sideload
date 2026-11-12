@@ -5,6 +5,15 @@
       "versions": [
         {
           "version": "0.1",
+          "buildVersion": "202611120825",
+          "date": "2026-11-12T08:26:32Z",
+          "localizedDescription": "Cut-Modus: Schnell-Tags, Anzahl-Badges und Kopien-Stepper",
+          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120825/NinetyNine.ipa",
+          "size": 3617552,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "0.1",
           "buildVersion": "202611120730",
           "date": "2026-11-12T07:31:27Z",
           "localizedDescription": "Mehrfachauswahl-Aktionen, Wischen zum Entfernen, neue Navigation",
@@ -54,10 +63,10 @@
         }
       },
       "version": "0.1",
-      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120730/NinetyNine.ipa",
-      "size": 3599887,
-      "versionDate": "2026-11-12T07:31:27Z",
-      "versionDescription": "Mehrfachauswahl-Aktionen, Wischen zum Entfernen, neue Navigation"
+      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120825/NinetyNine.ipa",
+      "size": 3617552,
+      "versionDate": "2026-11-12T08:26:32Z",
+      "versionDescription": "Cut-Modus: Schnell-Tags, Anzahl-Badges und Kopien-Stepper"
     }
   ],
   "news": [],
