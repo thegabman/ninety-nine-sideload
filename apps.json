@@ -5,6 +5,15 @@
       "versions": [
         {
           "version": "0.1",
+          "buildVersion": "202611120912",
+          "date": "2026-11-12T09:13:32Z",
+          "localizedDescription": "Bracket wird erst angezeigt, wenn er feststeht",
+          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120912/NinetyNine.ipa",
+          "size": 3653439,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "0.1",
           "buildVersion": "202611120903",
           "date": "2026-11-12T09:04:19Z",
           "localizedDescription": "Tags pro Deck, Neuer-Tag-Chip und Haupt-Tag per langem Drücken",
@@ -38,15 +47,6 @@
           "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611112207/NinetyNine.ipa",
           "size": 3567533,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "0.1",
-          "buildVersion": "202611112150",
-          "date": "2026-11-11T21:51:05Z",
-          "localizedDescription": "Moxfield-Sync, Wunschliste, eigene Warenkörbe und Tausch",
-          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611112150/NinetyNine.ipa",
-          "size": 3550495,
-          "minOSVersion": "26.0"
         }
       ],
       "name": "Ninety-Nine",
@@ -63,10 +63,10 @@
         }
       },
       "version": "0.1",
-      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120903/NinetyNine.ipa",
-      "size": 3643520,
-      "versionDate": "2026-11-12T09:04:19Z",
-      "versionDescription": "Tags pro Deck, Neuer-Tag-Chip und Haupt-Tag per langem Drücken"
+      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120912/NinetyNine.ipa",
+      "size": 3653439,
+      "versionDate": "2026-11-12T09:13:32Z",
+      "versionDescription": "Bracket wird erst angezeigt, wenn er feststeht"
     }
   ],
   "news": [],
