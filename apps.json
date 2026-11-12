@@ -4,6 +4,15 @@
       "bundleIdentifier": "de.gabrielschmitz.ninety-nine",
       "versions": [
         {
+          "version": "1.0",
+          "buildVersion": "202611120914",
+          "date": "2026-11-12T09:15:24Z",
+          "localizedDescription": "Version 1.0",
+          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611120914/NinetyNine.ipa",
+          "size": 3653440,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1",
           "buildVersion": "202611120912",
           "date": "2026-11-12T09:13:32Z",
@@ -38,15 +47,6 @@
           "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120730/NinetyNine.ipa",
           "size": 3599887,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "0.1",
-          "buildVersion": "202611112207",
-          "date": "2026-11-11T22:08:34Z",
-          "localizedDescription": "Eigene Warenkörbe als .ninetynine-Datei teilen",
-          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611112207/NinetyNine.ipa",
-          "size": 3567533,
-          "minOSVersion": "26.0"
         }
       ],
       "name": "Ninety-Nine",
@@ -62,11 +62,11 @@
           "NSFaceIDUsageDescription": "Face ID unlocks your saved Cardmarket login before the app signs you in."
         }
       },
-      "version": "0.1",
-      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120912/NinetyNine.ipa",
-      "size": 3653439,
-      "versionDate": "2026-11-12T09:13:32Z",
-      "versionDescription": "Bracket wird erst angezeigt, wenn er feststeht"
+      "version": "1.0",
+      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611120914/NinetyNine.ipa",
+      "size": 3653440,
+      "versionDate": "2026-11-12T09:15:24Z",
+      "versionDescription": "Version 1.0"
     }
   ],
   "news": [],
