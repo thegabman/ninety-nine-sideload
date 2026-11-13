@@ -5,6 +5,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "202611131155",
+          "date": "2026-11-13T11:55:48Z",
+          "localizedDescription": "Neu: Force Push und Force Pull im Deck-Menü (Force sync) – ersetzt eine Seite komplett durch die andere, z. B. bei Konflikten",
+          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131155/NinetyNine.ipa",
+          "size": 3693799,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "202611131119",
           "date": "2026-11-13T11:20:22Z",
           "localizedDescription": "Sync mit Archidekt und Moxfield repariert: keine doppelten Karten oder Endlos-Schleifen mehr, Printings werden übernommen, Änderungen während eines Syncs gehen nicht mehr verloren",
@@ -38,15 +47,6 @@
           "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611120914/NinetyNine.ipa",
           "size": 3653440,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "0.1",
-          "buildVersion": "202611120912",
-          "date": "2026-11-12T09:13:32Z",
-          "localizedDescription": "Bracket wird erst angezeigt, wenn er feststeht",
-          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120912/NinetyNine.ipa",
-          "size": 3653439,
-          "minOSVersion": "26.0"
         }
       ],
       "name": "Ninety-Nine",
@@ -63,10 +63,10 @@
         }
       },
       "version": "1.0",
-      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131119/NinetyNine.ipa",
-      "size": 3681022,
-      "versionDate": "2026-11-13T11:20:22Z",
-      "versionDescription": "Sync mit Archidekt und Moxfield repariert: keine doppelten Karten oder Endlos-Schleifen mehr, Printings werden übernommen, Änderungen während eines Syncs gehen nicht mehr verloren"
+      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131155/NinetyNine.ipa",
+      "size": 3693799,
+      "versionDate": "2026-11-13T11:55:48Z",
+      "versionDescription": "Neu: Force Push und Force Pull im Deck-Menü (Force sync) – ersetzt eine Seite komplett durch die andere, z. B. bei Konflikten"
     }
   ],
   "news": [],
