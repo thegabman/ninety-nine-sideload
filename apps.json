@@ -5,6 +5,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "202611131119",
+          "date": "2026-11-13T11:20:22Z",
+          "localizedDescription": "Sync mit Archidekt und Moxfield repariert: keine doppelten Karten oder Endlos-Schleifen mehr, Printings werden übernommen, Änderungen während eines Syncs gehen nicht mehr verloren",
+          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131119/NinetyNine.ipa",
+          "size": 3681022,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "202611131040",
           "date": "2026-11-13T10:41:13Z",
           "localizedDescription": "Listen springen nicht mehr beim Scrollen oder App-Wechsel · Karten in jedem Grid per Wischen entfernen (im Deck mit Rückgängig)",
@@ -38,15 +47,6 @@
           "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120912/NinetyNine.ipa",
           "size": 3653439,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "0.1",
-          "buildVersion": "202611120903",
-          "date": "2026-11-12T09:04:19Z",
-          "localizedDescription": "Tags pro Deck, Neuer-Tag-Chip und Haupt-Tag per langem Drücken",
-          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120903/NinetyNine.ipa",
-          "size": 3643520,
-          "minOSVersion": "26.0"
         }
       ],
       "name": "Ninety-Nine",
@@ -63,10 +63,10 @@
         }
       },
       "version": "1.0",
-      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131040/NinetyNine.ipa",
-      "size": 3672857,
-      "versionDate": "2026-11-13T10:41:13Z",
-      "versionDescription": "Listen springen nicht mehr beim Scrollen oder App-Wechsel · Karten in jedem Grid per Wischen entfernen (im Deck mit Rückgängig)"
+      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131119/NinetyNine.ipa",
+      "size": 3681022,
+      "versionDate": "2026-11-13T11:20:22Z",
+      "versionDescription": "Sync mit Archidekt und Moxfield repariert: keine doppelten Karten oder Endlos-Schleifen mehr, Printings werden übernommen, Änderungen während eines Syncs gehen nicht mehr verloren"
     }
   ],
   "news": [],
