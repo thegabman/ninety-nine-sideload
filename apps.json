@@ -5,6 +5,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "202611131601",
+          "date": "2026-11-13T16:02:24Z",
+          "localizedDescription": "Decks als Deckboxen mit Commander-Art. Antippen klappt den Deckel auf, die Commander-Karte fliegt aus der Box in den Deck-Header und das Deck zoomt heraus; zurück geht's umgekehrt. Schnelles Wechseln zwischen Decks ohne Wartezeit. Karten am unteren Rand laden jetzt auch.",
+          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131601/NinetyNine.ipa",
+          "size": 3759352,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "202611131218",
           "date": "2026-11-13T12:18:58Z",
           "localizedDescription": "Wishlist: Herunterziehen zum Aktualisieren meldet nicht mehr fälschlich „Moxfield sync failed“",
@@ -38,15 +47,6 @@
           "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131040/NinetyNine.ipa",
           "size": 3672857,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0",
-          "buildVersion": "202611120930",
-          "date": "2026-11-12T09:31:32Z",
-          "localizedDescription": "Willkommensbildschirm beim ersten Start",
-          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611120930/NinetyNine.ipa",
-          "size": 3663030,
-          "minOSVersion": "26.0"
         }
       ],
       "name": "Ninety-Nine",
@@ -63,10 +63,10 @@
         }
       },
       "version": "1.0",
-      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131218/NinetyNine.ipa",
-      "size": 3694712,
-      "versionDate": "2026-11-13T12:18:58Z",
-      "versionDescription": "Wishlist: Herunterziehen zum Aktualisieren meldet nicht mehr fälschlich „Moxfield sync failed“"
+      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131601/NinetyNine.ipa",
+      "size": 3759352,
+      "versionDate": "2026-11-13T16:02:24Z",
+      "versionDescription": "Decks als Deckboxen mit Commander-Art. Antippen klappt den Deckel auf, die Commander-Karte fliegt aus der Box in den Deck-Header und das Deck zoomt heraus; zurück geht's umgekehrt. Schnelles Wechseln zwischen Decks ohne Wartezeit. Karten am unteren Rand laden jetzt auch."
     }
   ],
   "news": [],
