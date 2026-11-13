@@ -5,6 +5,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "202611131040",
+          "date": "2026-11-13T10:41:13Z",
+          "localizedDescription": "Listen springen nicht mehr beim Scrollen oder App-Wechsel · Karten in jedem Grid per Wischen entfernen (im Deck mit Rückgängig)",
+          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131040/NinetyNine.ipa",
+          "size": 3672857,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "202611120930",
           "date": "2026-11-12T09:31:32Z",
           "localizedDescription": "Willkommensbildschirm beim ersten Start",
@@ -38,15 +47,6 @@
           "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120903/NinetyNine.ipa",
           "size": 3643520,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "0.1",
-          "buildVersion": "202611120825",
-          "date": "2026-11-12T08:26:32Z",
-          "localizedDescription": "Cut-Modus: Schnell-Tags, Anzahl-Badges und Kopien-Stepper",
-          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v0.1-202611120825/NinetyNine.ipa",
-          "size": 3617552,
-          "minOSVersion": "26.0"
         }
       ],
       "name": "Ninety-Nine",
@@ -63,10 +63,10 @@
         }
       },
       "version": "1.0",
-      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611120930/NinetyNine.ipa",
-      "size": 3663030,
-      "versionDate": "2026-11-12T09:31:32Z",
-      "versionDescription": "Willkommensbildschirm beim ersten Start"
+      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131040/NinetyNine.ipa",
+      "size": 3672857,
+      "versionDate": "2026-11-13T10:41:13Z",
+      "versionDescription": "Listen springen nicht mehr beim Scrollen oder App-Wechsel · Karten in jedem Grid per Wischen entfernen (im Deck mit Rückgängig)"
     }
   ],
   "news": [],
