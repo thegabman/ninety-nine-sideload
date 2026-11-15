@@ -1,9 +1,9 @@
 {
-  "version": "202611151822",
+  "version": "202611151850",
   "format": 1,
   "printings": 104241,
-  "size": 58866160,
-  "sha256": "34a6f9191df95cab990d070687223e4de12a1efc3d6734cdf00c30841a14eb2e",
-  "url": "https://github.com/thegabman/ninety-nine-sideload/releases/download/cardindex-202611151822/cardindex.aar",
-  "published": "2026-11-15T18:23:12Z"
+  "size": 60343699,
+  "sha256": "d68391ca2278a0d317e5b5446b3c94093c9547be232500b0fbf466303d206417",
+  "url": "https://github.com/thegabman/ninety-nine-sideload/releases/download/cardindex-202611151850/cardindex.aar",
+  "published": "2026-11-15T18:51:11Z"
 }
