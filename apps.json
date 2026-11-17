@@ -4,6 +4,15 @@
       "bundleIdentifier": "de.gabrielschmitz.ninety-nine",
       "versions": [
         {
+          "version": "1.1",
+          "buildVersion": "202611170854",
+          "date": "2026-11-17T08:56:11Z",
+          "localizedDescription": "Smart search over every card: type what you want in English or German (colors, types, sets, prices, sorting, typos), with an on-device meaning model. Sell on Cardmarket, carts synced with Cardmarket want lists (send changes when you're ready), Cardmarket prices in trades, scanner improvements, deck header with EDHREC rank, and many fixes.",
+          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.1-202611170854/NinetyNine.ipa",
+          "size": 35249705,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0",
           "buildVersion": "202611131601",
           "date": "2026-11-13T16:02:24Z",
@@ -38,15 +47,6 @@
           "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131119/NinetyNine.ipa",
           "size": 3681022,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0",
-          "buildVersion": "202611131040",
-          "date": "2026-11-13T10:41:13Z",
-          "localizedDescription": "Listen springen nicht mehr beim Scrollen oder App-Wechsel · Karten in jedem Grid per Wischen entfernen (im Deck mit Rückgängig)",
-          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131040/NinetyNine.ipa",
-          "size": 3672857,
-          "minOSVersion": "26.0"
         }
       ],
       "name": "Ninety-Nine",
@@ -59,14 +59,15 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
+          "NSCameraUsageDescription": "Ninety-Nine uses the camera to scan your cards.",
           "NSFaceIDUsageDescription": "Face ID unlocks your saved Cardmarket login before the app signs you in."
         }
       },
-      "version": "1.0",
-      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131601/NinetyNine.ipa",
-      "size": 3759352,
-      "versionDate": "2026-11-13T16:02:24Z",
-      "versionDescription": "Decks als Deckboxen mit Commander-Art. Antippen klappt den Deckel auf, die Commander-Karte fliegt aus der Box in den Deck-Header und das Deck zoomt heraus; zurück geht's umgekehrt. Schnelles Wechseln zwischen Decks ohne Wartezeit. Karten am unteren Rand laden jetzt auch."
+      "version": "1.1",
+      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.1-202611170854/NinetyNine.ipa",
+      "size": 35249705,
+      "versionDate": "2026-11-17T08:56:11Z",
+      "versionDescription": "Smart search over every card: type what you want in English or German (colors, types, sets, prices, sorting, typos), with an on-device meaning model. Sell on Cardmarket, carts synced with Cardmarket want lists (send changes when you're ready), Cardmarket prices in trades, scanner improvements, deck header with EDHREC rank, and many fixes."
     }
   ],
   "news": [],
