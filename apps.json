@@ -4,6 +4,15 @@
       "bundleIdentifier": "de.gabrielschmitz.ninety-nine",
       "versions": [
         {
+          "version": "1.1.1",
+          "buildVersion": "202611180728",
+          "date": "2026-11-18T07:30:26Z",
+          "localizedDescription": "Open Cardmarket from Settings to finish a check Cardmarket shows; the wishlist's old one-off want list menu item is gone (use the wishlist's cart instead). Fixes.",
+          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.1.1-202611180728/NinetyNine.ipa",
+          "size": 35167720,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1",
           "buildVersion": "202611170854",
           "date": "2026-11-17T08:56:11Z",
@@ -38,15 +47,6 @@
           "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131155/NinetyNine.ipa",
           "size": 3693799,
           "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.0",
-          "buildVersion": "202611131119",
-          "date": "2026-11-13T11:20:22Z",
-          "localizedDescription": "Sync mit Archidekt und Moxfield repariert: keine doppelten Karten oder Endlos-Schleifen mehr, Printings werden übernommen, Änderungen während eines Syncs gehen nicht mehr verloren",
-          "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.0-202611131119/NinetyNine.ipa",
-          "size": 3681022,
-          "minOSVersion": "26.0"
         }
       ],
       "name": "Ninety-Nine",
@@ -63,11 +63,11 @@
           "NSFaceIDUsageDescription": "Face ID unlocks your saved Cardmarket login before the app signs you in."
         }
       },
-      "version": "1.1",
-      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.1-202611170854/NinetyNine.ipa",
-      "size": 35249705,
-      "versionDate": "2026-11-17T08:56:11Z",
-      "versionDescription": "Smart search over every card: type what you want in English or German (colors, types, sets, prices, sorting, typos), with an on-device meaning model. Sell on Cardmarket, carts synced with Cardmarket want lists (send changes when you're ready), Cardmarket prices in trades, scanner improvements, deck header with EDHREC rank, and many fixes."
+      "version": "1.1.1",
+      "downloadURL": "https://github.com/thegabman/ninety-nine-sideload/releases/download/v1.1.1-202611180728/NinetyNine.ipa",
+      "size": 35167720,
+      "versionDate": "2026-11-18T07:30:26Z",
+      "versionDescription": "Open Cardmarket from Settings to finish a check Cardmarket shows; the wishlist's old one-off want list menu item is gone (use the wishlist's cart instead). Fixes."
     }
   ],
   "news": [],
